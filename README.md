@@ -22,47 +22,40 @@ Here are some ideas to get you started:
 
 ### 🚀 Aspiring Data Analyst | Data-Driven Insights 🔍 Finding Stories Hidden Behind Data.
 
-## About Me
+About Me
 - 🎓 Computer Science and Engineering student interested in solving analytical problems.
 - ✨ Interested in data analysis, business intelligence, and problem-solving.
 - 🎯 Skilled in Python, Pandas, NumPy, SQL, and PostgreSQL.
 - 📈 Exploring Power BI and building practical analytics projects.
----
 
-## 🛠️ Technical Skills
-- **Programming:** Python
-- **Database:** SQL, PostgreSQL
-- **Data Analysis:** Pandas, NumPy
-- **Data Visualization:** Power BI, Excel
-- **Tools:** Git, GitHub
+🛠️ Technical Skills
+- Programming: Python
+- Database: SQL, PostgreSQL
+- Data Analysis: Pandas, NumPy
+- Data Visualization: Power BI, Excel
+- Tools: Git, GitHub
 
-## Projects
-### 📊 Sales & Customer Analytics Dashboard
-**Technologies:** Python(Pandas), PostgreSQL, SQL, Power BI
+### Projects
+📊Sales & Customer Analytics Dashboard
+Technologies: Python (Pandas), PostgreSQL, SQL, Power BI
 - Analyzed sales, profit, discounts, and customer performance.
 - Performed data cleaning, SQL analysis, and RFM-based customer segmentation.
 - Built interactive Power BI dashboards and generated actionable business insights.
----
 
-## 🌱 Continuous Learning & Growth
+🌱 Continuous Learning & Growth
 - Improving Python and data analysis skills.
 - Strengthening SQL and database management.
 - Enhancing Power BI and dashboard development.
 - Building real-world data analytics projects.
-  
----
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniya64&show_icons=true&hide_border=false&bg_color=080D0B&title_color=78A995&icon_color=78A995&text_color=E8EAE7&border_color=536B61)
 
----
+🤝 Let's Connect
+- 💼 LinkedIn: [Daniya Tabassum](https://www.linkedin.com/in/daniyatabassum/)
+- 📧 Email: [daniyatabassum113@gmail.com](mailto:daniyatabassum113@gmail.com)
 
-## 🤝 Let's Connect
-- 💼 **LinkedIn:** [Daniya Tabassum](https://www.linkedin.com/in/daniyatabassum/)
-- 💻 **GitHub:** [Daniya64](https://github.com/Daniya64)
-- 📧 **Email:** [daniyatabassum113@gmail.com](mailto:daniyatabassum113@gmail.com)
-
----
 🚀 Passionate about data, insights, and continuous learning.
+
 💚 Let's turn data into meaningful impact!
