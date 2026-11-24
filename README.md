@@ -20,91 +20,49 @@ Here are some ideas to get you started:
 </p>
 
 
-### Aspiring Data Analyst | Python | SQL | Power BI
+### 🚀 Aspiring Data Analyst | Data-Driven Insights 🔍 Finding Stories Hidden Behind Data.
 
-**Transforming Data into Meaningful Insights.**
-
-I'm an aspiring Data Analyst passionate about transforming raw data into meaningful insights that support better business decisions.
-
-I enjoy exploring datasets, identifying trends, performing data analysis, and building interactive dashboards to solve real-world business problems.
-
-Currently, I'm strengthening my analytical skills and building practical projects using Python, SQL, PostgreSQL, and Power BI.
-
----
-
-## 💫 About Me
-
-- 🎓 Computer Science and Engineering graduate-in-progress.
-- 📊 Interested in Data Analytics and Business Intelligence.
-- 🐍 Working with Python, Pandas, and NumPy.
-- 🗄️ Practicing SQL and PostgreSQL for data querying and analysis.
-- 📈 Building interactive dashboards using Power BI.
-- 📑 Using Excel for data analysis and reporting.
-- 🚀 Focused on developing practical, business-oriented analytics projects.
-
+## About Me
+- 🎓 Computer Science and Engineering student interested in solving analytical problems.
+- ✨ Interested in data analysis, business intelligence, and problem-solving.
+- 🎯 Skilled in Python, Pandas, NumPy, SQL, and PostgreSQL.
+- 📈 Exploring Power BI and building practical analytics projects.
 ---
 
 ## 🛠️ Technical Skills
+- **Programming:** Python
+- **Database:** SQL, PostgreSQL
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Power BI, Excel
+- **Tools:** Git, GitHub
 
-| Category | Technologies |
-|---|---|
-| Programming | Python |
-| Database | SQL, PostgreSQL |
-| Data Analysis | Pandas, NumPy |
-| Visualization | Power BI, Excel |
-| Version Control | Git, GitHub |
-
----
-
-## 📂 Featured Project
-
+## Projects
 ### 📊 Sales & Customer Analytics Dashboard
-
-**Technologies:** Python (Pandas), PostgreSQL, SQL, Power BI
-
-An end-to-end analytics project focused on understanding sales performance, profitability, discount patterns, and customer behavior through data analysis and interactive visualizations.
-
-**Key Contributions:**
-
-- Analyzed sales, profit, discount, and customer performance.
-- Performed data cleaning and preprocessing using Python and Pandas.
-- Used PostgreSQL and SQL for data querying and business analysis.
-- Conducted customer segmentation using RFM (Recency, Frequency, Monetary) analysis.
-- Developed interactive Power BI dashboards to monitor important business KPIs.
-- Generated actionable business recommendations from analytical findings.
-
-🔗 **[Explore Project Repository](https://github.com/Daniya64)**
-
+**Technologies:** Python(Pandas), PostgreSQL, SQL, Power BI
+- Analyzed sales, profit, discounts, and customer performance.
+- Performed data cleaning, SQL analysis, and RFM-based customer segmentation.
+- Built interactive Power BI dashboards and generated actionable business insights.
 ---
 
-## 📈 What I'm Currently Focusing On
-
-- Improving Python programming and data manipulation skills.
-- Strengthening SQL and database querying techniques.
-- Developing advanced Power BI dashboards.
-- Practicing real-world data analysis and business case studies.
-- Building a strong portfolio of end-to-end analytics projects.
-
+## 🌱 Continuous Learning & Growth
+- Improving Python and data analysis skills.
+- Strengthening SQL and database management.
+- Enhancing Power BI and dashboard development.
+- Building real-world data analytics projects.
+  
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniya64&show_icons=true&theme=transparent&hide_border=true&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniya64&layout=compact&theme=transparent&hide_border=true&title_color=2ECC71&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniya64&show_icons=true&hide_border=false&bg_color=080D0B&title_color=78A995&icon_color=78A995&text_color=E8EAE7&border_color=536B61)
 
 ---
 
 ## 🤝 Let's Connect
-
-I'm always interested in connecting with professionals, learning from the data community, collaborating on projects, and exploring opportunities in Data Analytics.
-
 - 💼 **LinkedIn:** [Daniya Tabassum](https://www.linkedin.com/in/daniyatabassum/)
 - 💻 **GitHub:** [Daniya64](https://github.com/Daniya64)
 - 📧 **Email:** [daniyatabassum113@gmail.com](mailto:daniyatabassum113@gmail.com)
 
 ---
-
-### ✨ Transforming Data into Meaningful Insights.
-
-*Thanks for visiting my GitHub profile!*
+🚀 Passionate about data, insights, and continuous learning.
+💚 Let's turn data into meaningful impact!
