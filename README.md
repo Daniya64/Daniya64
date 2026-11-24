@@ -22,11 +22,15 @@ Here are some ideas to get you started:
 
 ### 🚀 Aspiring Data Analyst | Data-Driven Insights 🔍 Finding Stories Hidden Behind Data.
 
-About Me
-- 🎓 Computer Science and Engineering student interested in solving analytical problems.
-- ✨ Interested in data analysis, business intelligence, and problem-solving.
-- 🎯 Skilled in Python, Pandas, NumPy, SQL, and PostgreSQL.
-- 📈 Exploring Power BI and building practical analytics projects.
+### About Me
+- 🎓 Computer Science and Engineering student passionate about technology and analytical problem-solving.
+- 📊 Aspiring Data Analyst interested in data analytics and business intelligence.
+- 🔍 Enjoy analyzing datasets, identifying trends, and uncovering meaningful insights.
+- ✨ Skilled in Python, Pandas, and NumPy for data manipulation and analysis.
+- 🗄️ Working with SQL and PostgreSQL for database querying and data management.
+- 📈 Exploring Power BI and Excel for data visualization and interactive reporting.
+- 🚀 Building practical projects to solve real-world business problems.
+- 🎯 Continuously learning and improving my technical and analytical skills.
 
 🛠️ Technical Skills
 - Programming: Python
